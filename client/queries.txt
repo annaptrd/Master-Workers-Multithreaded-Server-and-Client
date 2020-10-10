@@ -1,0 +1,24 @@
+diseaseFrequency H1N1 01-01-1910 25-10-2040 Greece
+diseaseFrequency H1N1 01-01-1910 25-10-2040
+diseaseFrequency SARS 18-03-1968 10-10-2100 Poland
+diseaseFrequency SARS 18-03-1968 10-10-2100
+diseaseFrequency COVID-2019 19-12-1900 09-10-2020 USA
+diseaseFrequency COVID-2019 10-10-1907 09-11-2028
+topk-AgeRanges 2 Greece COVID-2019 12-01-1080 05-06-3000
+topk-AgeRanges 4 Japan COVID-2019 12-01-1080 05-06-3000
+topk-AgeRanges 3 France FLU 12-09-2000 05-06-2020
+topk-AgeRanges 1 Italy H1N1 12-01-1080 05-06-3000
+numPatientAdmissions COVID-2019 22-10-1980 10-09-2021
+numPatientDischarges EBOLA 22-10-1980 10-09-2021
+numPatientAdmissions H1N1 22-10-1980 10-09-2021
+numPatientDischarges H1N1 22-10-1980 10-09-2021
+numPatientAdmissions COVID-2019 22-10-1980 10-09-2021 Greece
+numPatientDischarges COVID-2019 22-10-1980 10-09-2021 USA
+numPatientAdmissions EBOLA 22-10-1980 10-09-2021
+numPatientDischarges H1N1 22-10-1980 10-09-2021
+numPatientAdmissions SARS 22-10-1980 10-09-2021 Italy
+numPatientDischarges FLU 22-10-1980 10-09-2021 Poland
+searchPatientRecord r116
+searchPatientRecord r68
+searchPatientRecord r900
+searchPatientRecord r115
